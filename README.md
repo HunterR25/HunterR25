@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HunterR25
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hcaking
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Bug Bounties, Penetration Testing
 
 <!---
